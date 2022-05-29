@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 2,
    "id": "1cde87b5-0465-4a71-bf59-ed8f20eaf43e",
    "metadata": {},
    "outputs": [
@@ -20,8 +20,26 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 3,
    "id": "32f00951-a8fc-493d-80ca-da4c43e7712c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello mayur\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"hello mayur\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "e37c405c-9f11-4c39-9c1b-308ce2debde1",
    "metadata": {},
    "outputs": [],
    "source": []
